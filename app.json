@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "academind-app2",
-    "slug": "academind-app2",
+    "name": "Number Game",
+    "slug": "number-game",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This is a fun little number counter app!"
   }
 }
